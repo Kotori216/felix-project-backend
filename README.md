@@ -1,4 +1,4 @@
-# Felix - Fire Juice
+# Felix 
 
 ## Examples of http requests:
 
